@@ -5,7 +5,7 @@ Banknote Authentication: Comparison of Naive Bayes, KNN, and Decision Tree ID3
 Implementations from Scratch
 
 2.Author
-sheyda fathi - 4021193059
+sheyda fathi
 
 ---
 
